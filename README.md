@@ -57,6 +57,7 @@ print(f"Tasks in progress: {report.metrics.tasks_in_progress}")
 ### `StatusReport` / `HealthStatus` / `Metric`
 
 ## How It Fits
+- [OpenConstruct Documentation](https://github.com/SuperInstance/openconstruct-docs) — ecosystem-wide docs and guides
 
 The commanding vessel of the [SuperInstance fleet](https://github.com/SuperInstance). Receives dispatched work from [Co-Captain](https://github.com/SuperInstance/co-captain-git-agent) and distributes it across fleet agents.
 
